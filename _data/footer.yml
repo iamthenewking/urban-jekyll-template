@@ -1,7 +1,5 @@
 - title: Pages
   links:
-    - name: Home
-      link: /
     - name: Portfolio
       link: /portfolio/
     - name: Blog
